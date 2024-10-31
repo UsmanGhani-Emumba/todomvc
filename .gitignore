@@ -3,4 +3,6 @@ node_modules
 dist
 
 cypress/videos
-cypress/screenshots
+cypress/screenshot
+
+./.github/workflows/test-app.yml
